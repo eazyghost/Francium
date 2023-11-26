@@ -1,4 +1,4 @@
-# Francium Hidden / This version is not updated
+# Francium Hidden / This version is not updated !
 
 I recommend going to their official discord to get the latest version.
    
