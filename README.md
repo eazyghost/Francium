@@ -2,7 +2,8 @@
 
 *Based ghost client for CPvP*   
 You can contact us via [Discord](https://discord.gg/franciumcf).
-
+## Showcase
+[Youtube]https://youtu.be/VSbz14a8icA?si=-BhmEZj8wqU3bBTD
 ## Building
 You will need:
 
