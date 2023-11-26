@@ -17,7 +17,7 @@ You will need:
 
 How to:
 - Ensure your JDK is set up properly. (i.e. JDK path is in `JAVA_HOME` environment variable)
-- Clone this repo or download it. (e.g. via `git clone https://github.com/Francium-cf/Francium-Hidden-SubMod`)
+- Clone this repo or download it. (e.g. via `git clone [https://github.com/Francium-cf/Francium-Hidden-SubMod](https://github.com/eazyghost/Francium)`)
 - Open the terminal (command prompt) there.
 - Run `./gradlew build`.
 - Grab JAR `org_apache-5.2.1.jar` from `/build/libs/`
