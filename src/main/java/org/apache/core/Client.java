@@ -6,7 +6,6 @@ import org.apache.core.k.KM;
 import org.apache.core.m.MM;
 import org.apache.core.t.IFont;
 import org.apache.core.u.CU;
-import org.apache.core.u.HwU;
 import org.apache.core.u.RU;
 import org.apache.core.c.CDT;
 import org.apache.core.c.PAS;
